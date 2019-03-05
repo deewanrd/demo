@@ -1,59 +1,116 @@
 [
   {
-    "vehicle_id": "d958593f-a295-4de5-82fa-aa089ed2e1bd",
-    "vin": "1FTWW3B58AE507023",
-    "brand": "Volkswagen",
-    "model": "Cabriolet",
-    "variant": "Once",
-    "year_launched": 2000,
-    "transmission": "Beverages (Production/Distribution)",
-    "body_style": "CONVERTIBLE",
-    "description": "'",
-    "exterior_color": "Blue",
+    "vehicle_id": "1a444a65-d93b-4180-8dab-415e3a40710b",
+    "vin": "1HGCP2E81AA581282",
+    "brand": "Volvo",
+    "model": "V40",
+    "variant": "Monthly",
+    "year_launched": 2002,
+    "transmission": "n/a",
+    "body_style": "SUV",
+    "description": "NIL",
+    "exterior_color": "Green",
     "stock": 1,
     "comparable_auto": [
       {
-        "model": "Regal"
+        "model": "Firebird"
+      }
+    ],
+    "user_rating": 4,
+    "images": [
+      {
+        "url": "http://dummyimage.com/136x247.bmp/cc0000/ffffff",
+        "tag": "Meaghan"
       },
       {
-        "model": "M"
+        "url": "http://dummyimage.com/241x215.jpg/5fa2dd/ffffff",
+        "tag": "Isac"
+      }
+    ],
+    "mileage_value": 1,
+    "mileage_unit": "km",
+    "title": "Corolla",
+    "price": "$2.30",
+    "state_of_vehicle": "new",
+    "dealer_address": "103 Luster Way",
+    "dealer_addr1": "10 Anhalt Plaza",
+    "dealer_city": "Lichengdao",
+    "dealer_region": "China",
+    "dealer_longitude": 114.926498,
+    "dealer_latitude": 38.240395,
+    "owner_type": "third",
+    "owner_name": "Johnna Suggate",
+    "drivetrain": "AWD",
+    "service_cost": "$3.40",
+    "fuel_type": "LPG",
+    "interior_color": "Indigo",
+    "condition": "4X4",
+    "sale_price": "$4.99",
+    "date_first_on_lot": "8/23/2018",
+    "availability": false,
+    "dealer_name": "Glad Bronger",
+    "dealer_id": "69-4476743",
+    "dealer_phone": "872-221-9729",
+    "vehicle_type": "other"
+  },
+  {
+    "vehicle_id": "3d23217f-e8a3-4b63-8887-795e73cc76a0",
+    "vin": "WAUFFAFL0CN628340",
+    "brand": "Ford",
+    "model": "Taurus",
+    "variant": "Never",
+    "year_launched": 1999,
+    "transmission": "Marine Transportation",
+    "body_style": "VAN",
+    "description": ",。・:*:・゜’( ☻ ω ☻ )。・:*:・゜’",
+    "exterior_color": "Puce",
+    "stock": 2,
+    "comparable_auto": [
+      {
+        "model": "Landaulet"
+      },
+      {
+        "model": "Tacoma"
+      },
+      {
+        "model": "Armada"
       }
     ],
     "user_rating": 1,
     "images": [
       {
-        "url": "http://dummyimage.com/217x125.png/cc0000/ffffff",
-        "tag": "Mab"
+        "url": "http://dummyimage.com/231x178.jpg/5fa2dd/ffffff",
+        "tag": "Melly"
       },
       {
-        "url": "http://dummyimage.com/175x237.png/ff4444/ffffff",
-        "tag": "Chiquia"
+        "url": "http://dummyimage.com/223x100.bmp/cc0000/ffffff",
+        "tag": "Lev"
       }
     ],
-    "mileage_value": 1,
+    "mileage_value": 2,
     "mileage_unit": "mi",
-    "title": "Miata MX-5",
-    "price": "$9.32",
-    "state_of_vehicle": "used",
-    "dealer_address": "15 Dixon Crossing",
-    "dealer_addr1": "14123 Southridge Drive",
-    "dealer_city": "Tsuruoka",
-    "dealer_region": "Japan",
-    "dealer_longitude": 134.7938651,
-    "dealer_latitude": 35.4693091,
+    "title": "Caravan",
+    "price": "$4.83",
+    "state_of_vehicle": "new",
+    "dealer_address": "562 South Street",
+    "dealer_addr1": "62028 Mayer Center",
+    "dealer_city": "Lugouqiao",
+    "dealer_region": "China",
+    "dealer_longitude": 116.2190658,
+    "dealer_latitude": 39.8502497,
     "owner_type": "second",
-    "owner_name": "Liz Bockh",
-    "drivetrain": "4X4",
-    "service_cost": "$5.95",
-    "fuel_type": "Petrol",
-    "interior_color": "Red",
-    "condition": "Other",
-    "sale_price": "$0.20",
-    "date_first_on_lot": "6/11/2018",
+    "owner_name": "Ado Bruckental",
+    "drivetrain": "FWD",
+    "service_cost": "$1.37",
+    "fuel_type": "Electric",
+    "interior_color": "Orange",
+    "condition": "4X4",
+    "sale_price": "$0.48",
+    "date_first_on_lot": "11/29/2018",
     "availability": true,
-    "dealer_name": "Kellina Vargas",
-    "dealer_id": "34-9385179",
-    "dealer_phone": "244-709-8475",
-    "Vehicle_type": "rv_camper"
+    "dealer_name": "Tyrus Hullin",
+    "dealer_id": "83-0549898",
+    "dealer_phone": "586-266-6725",
+    "vehicle_type": "other"
   }
-  ]
+]
