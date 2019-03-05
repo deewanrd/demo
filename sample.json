@@ -1,59 +1,59 @@
 [
-{
-'vehicle_id': "d958593f-a295-4de5-82fa-aa089ed2e1bd",
-"vin": "1FTWW3B58AE507023",
-"brand": "Volkswagen",
-"model": "Cabriolet",
-"variant": "Once",
-"year_launched": 2000,
-"transmission": "Beverages (Production/Distribution)",
-"body_style": "CONVERTIBLE",
-"description": "'",
-"exterior_color": "Blue",
-"stock": 1,
-"comparable_auto": [
-{
-"model": "Regal"
-},
-{
-"model": "M"
-}
-],
-"user_rating": 1,
-"images": [
-{
-"url": "http://dummyimage.com/217x125.png/cc0000/ffffff",
-"tag": "Mab"
-},
-{
-"url": "http://dummyimage.com/175x237.png/ff4444/ffffff",
-"tag": "Chiquia"
-}
-],
-"mileage_value": 1,
-"mileage_unit": "mi",
-"title": "Miata MX-5",
-"price": "$9.32",
-"state_of_vehicle": "used",
-"dealer_address": "15 Dixon Crossing",
-"dealer_addr1": "14123 Southridge Drive",
-"dealer_city": "Tsuruoka",
-"dealer_region": "Japan",
-"dealer_longitude": 134.7938651,
-"dealer_latitude": 35.4693091,
-"owner_type": "second",
-"owner_name": "Liz Bockh",
-"drivetrain": "4X4",
-"service_cost": "$5.95",
-"fuel_type": "Petrol",
-"interior_color": "Red",
-"condition": "Other",
-"sale_price": "$0.20",
-"date_first_on_lot": "6/11/2018",
-"availability": true,
-"dealer_name": "Kellina Vargas",
-"dealer_id": "34-9385179",
-"dealer_phone": "244-709-8475",
-"Vehicle_type": "rv_camper"
-}
-]
+  {
+    "vehicle_id": "d958593f-a295-4de5-82fa-aa089ed2e1bd",
+    "vin": "1FTWW3B58AE507023",
+    "brand": "Volkswagen",
+    "model": "Cabriolet",
+    "variant": "Once",
+    "year_launched": 2000,
+    "transmission": "Beverages (Production/Distribution)",
+    "body_style": "CONVERTIBLE",
+    "description": "'",
+    "exterior_color": "Blue",
+    "stock": 1,
+    "comparable_auto": [
+      {
+        "model": "Regal"
+      },
+      {
+        "model": "M"
+      }
+    ],
+    "user_rating": 1,
+    "images": [
+      {
+        "url": "http://dummyimage.com/217x125.png/cc0000/ffffff",
+        "tag": "Mab"
+      },
+      {
+        "url": "http://dummyimage.com/175x237.png/ff4444/ffffff",
+        "tag": "Chiquia"
+      }
+    ],
+    "mileage_value": 1,
+    "mileage_unit": "mi",
+    "title": "Miata MX-5",
+    "price": "$9.32",
+    "state_of_vehicle": "used",
+    "dealer_address": "15 Dixon Crossing",
+    "dealer_addr1": "14123 Southridge Drive",
+    "dealer_city": "Tsuruoka",
+    "dealer_region": "Japan",
+    "dealer_longitude": 134.7938651,
+    "dealer_latitude": 35.4693091,
+    "owner_type": "second",
+    "owner_name": "Liz Bockh",
+    "drivetrain": "4X4",
+    "service_cost": "$5.95",
+    "fuel_type": "Petrol",
+    "interior_color": "Red",
+    "condition": "Other",
+    "sale_price": "$0.20",
+    "date_first_on_lot": "6/11/2018",
+    "availability": true,
+    "dealer_name": "Kellina Vargas",
+    "dealer_id": "34-9385179",
+    "dealer_phone": "244-709-8475",
+    "Vehicle_type": "rv_camper"
+  }
+  ]
