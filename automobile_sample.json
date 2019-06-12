@@ -1,115 +1,171 @@
+
 [
-  {
-    "vehicle_id": "d958593f-a295-4de5-82fa-aa089ed2e1bd",
-    "vin": "1FTWW3B58AE507023",
-    "brand": "Volkswagen",
-    "model": "Cabriolet",
-    "variant": "Once",
-    "year_launched": 2000,
-    "transmission": "Beverages (Production/Distribution)",
-    "body_style": "CONVERTIBLE",
-    "description": "Loreal ipsum",
-    "exterior_color": "Blue",
-    "stock": 1,
-    "comparable_auto": [
-      {
-        "model": "Regal"
-      },
-      {
-        "model": "M"
-      }
-    ],
-    "user_rating": 1,
-    "images": [
-      {
-        "url": "http://dummyimage.com/217x125.png/cc0000/ffffff",
-        "tag": "Mab"
-      },
-      {
-        "url": "http://dummyimage.com/175x237.png/ff4444/ffffff",
-        "tag": "Chiquia"
-      }
-    ],
-    "mileage_value": 1,
-    "mileage_unit": "mi",
-    "title": "Miata MX-5",
-    "price": "$9.32",
-    "state_of_vehicle": "used",
-    "dealer_address": "15 Dixon Crossing",
-    "dealer_addr1": "14123 Southridge Drive",
-    "dealer_city": "Tsuruoka",
-    "dealer_region": "Japan",
-    "dealer_longitude": 134.7938651,
-    "dealer_latitude": 35.4693091,
-    "owner_type": "second",
-    "owner_name": "Liz Bockh",
-    "drivetrain": "4X4",
-    "service_cost": "$5.95",
-    "fuel_type": "Petrol",
-    "interior_color": "Red",
-    "condition": "Other",
-    "sale_price": "$0.20",
-    "date_first_on_lot": "6/11/2018",
-    "availability": true,
-    "dealer_name": "Kellina Vargas",
-    "dealer_id": "34-9385179",
-    "dealer_phone": "244-709-8475",
-    "vehicle_type": "rv_camper"
-  },
-  {
-    "vehicle_id": "00edb7f6-160c-44ae-82f2-d2230f4a90a6",
-    "vin": "WAU4GBFB4BN140900",
-    "brand": "Ford",
-    "model": "Econoline E350",
-    "variant": "Daily",
-    "year_launched": 1993,
-    "transmission": "Telecommunications Equipment",
-    "body_style": "CROSSOVER",
-    "description": "Loreal ipsum",
-    "exterior_color": "Indigo",
-    "stock": 2,
-    "comparable_auto": [
-      {
-        "model": "Optima"
-      },
-      {
-        "model": "B2500"
-      },
-      {
-        "model": "Neon"
-      }
-    ],
-    "user_rating": 3,
-    "images": [
-      {
-        "url": "http://dummyimage.com/144x189.png/ff4444/ffffff",
-        "tag": "Karyl"
-      }
-    ],
-    "mileage_value": 2,
-    "mileage_unit": "km",
-    "title": "Rally Wagon 2500",
-    "price": "$1.40",
-    "state_of_vehicle": "new",
-    "dealer_address": "7010 Meadow Vale Road",
-    "dealer_addr1": "7 Morning Point",
-    "dealer_city": "Hägersten",
-    "dealer_region": "Sweden",
-    "dealer_longitude": 17.9862008,
-    "dealer_latitude": 59.2931754,
-    "owner_type": "third",
-    "owner_name": "Victoir Snape",
-    "drivetrain": "AWD",
-    "service_cost": "$1.61",
-    "fuel_type": "Diesel",
-    "interior_color": "Turquoise",
-    "condition": "4X2",
-    "sale_price": "$7.20",
-    "date_first_on_lot": "5/6/2018",
-    "availability": false,
-    "dealer_name": "Annmaria Staten",
-    "dealer_id": "83-4868059",
-    "dealer_phone": "982-192-1005",
-    "vehicle_type": "trailer"
-  }
+    {
+        "vehicle_id": 6789,
+        "vin": null,
+        "brand": "Maruti",
+        "model": "Alto 800",
+        "variant": "VXI",
+        "year_launched": 2019,
+        "start_date": "23/04/2019",
+        "end_date": "23/04/2044",
+        "transmission": "Manual",
+        "body_style": "Hatchback",
+        "description": null,
+        "exterior_color": [
+            "Silky silver",
+            "Superio white",
+            "Granite Grey",
+            "Mojito Green",
+            "Cerulean Blue",
+            "Uptown Red"
+        ],
+        "comparable_auto": [
+            {
+                "variant": "Maruti Alto K10 LX Optional"
+            },
+            {
+                "variant": "Renault KWID RXL"
+            },
+            {
+                "variant": "Maruti Celerio LXI MT"
+            },
+            {
+                "variant": "Datsun redi-GO T"
+            },
+            {
+                "variant": "Maruti Wagon R LXI"
+            },
+            {
+                "variant": "Tata Tiago XE"
+            },
+            {
+                "variant": "Bajaj Qute Petrol"
+            },
+            {
+                "variant": "Hyundai Grand i10 1.2 Kappa Era"
+            }
+        ],
+        "user_rating": 4.8,
+        "images": [
+            {
+                "url": "https://stimg.cardekho.com/images/carexteriorimages/360x240/Maruti/Maruti-Alto-800/1556028710229/047.jpg",
+                "tag": "jpg"
+            }
+        ],
+        "mileage_value": {
+            "city": 0,
+            "highway": 0,
+            "arai": 24.7
+        },
+        "mileage_unit": "kmpl",
+        "title": "Maruti Alto 800 VXI",
+        "price": 378601,
+        "state_of_vehicle": "new",
+        "fuel_type": "Petrol",
+        "brochure_path": null,
+        "service_cost": 0,
+        "variant_specs": {
+            "cc": "796",
+            "power": "47.3bhp@6000rpm",
+            "cargo_volume": "177-litres",
+            "length": "3445mm",
+            "height": "1475mm",
+            "width": "1490mm",
+            "wheel_base": "2360mm",
+            "ground_clearance": "160mm",
+            "abs": "Standard",
+            "airbags": "Standard",
+            "touchscreen": "Not Available",
+            "rear_camera": "Not Available",
+            "anti_theft_alarm": "Not Available",
+            "fog_lights_front": "Not Available",
+            "alloy_wheels": "Not Available",
+            "rear_acvents": "Not Available"
+        }
+    },
+    {
+        "vehicle_id": 6903,
+        "vin": null,
+        "brand": "Maruti",
+        "model": "Alto 800",
+        "variant": "STD Opt",
+        "year_launched": 2019,
+        "start_date": "23/04/2019",
+        "end_date": "23/04/2044",
+        "transmission": "Manual",
+        "body_style": "Hatchback",
+        "description": null,
+        "exterior_color": [
+            "Silky silver",
+            "Superio white",
+            "Granite Grey",
+            "Mojito Green",
+            "Cerulean Blue",
+            "Uptown Red"
+        ],
+        "comparable_auto": [
+            {
+                "variant": "Maruti Alto K10 LX"
+            },
+            {
+                "variant": "Renault KWID RXE"
+            },
+            {
+                "variant": "Maruti Celerio LXI MT"
+            },
+            {
+                "variant": "Datsun redi-GO A"
+            },
+            {
+                "variant": "Maruti Wagon R LXI"
+            },
+            {
+                "variant": "Tata Tiago XE"
+            },
+            {
+                "variant": "Bajaj Qute Petrol"
+            },
+            {
+                "variant": "Hyundai Grand i10 1.2 Kappa Era"
+            }
+        ],
+        "user_rating": 4.8,
+        "images": [
+            {
+                "url": "https://stimg.cardekho.com/images/carexteriorimages/360x240/Maruti/Maruti-Alto-800/1556028710229/047.jpg",
+                "tag": "jpg"
+            }
+        ],
+        "mileage_value": {
+            "city": 0,
+            "highway": 0,
+            "arai": 24.7
+        },
+        "mileage_unit": "kmpl",
+        "title": "Maruti Alto 800 STD Opt",
+        "price": 328112,
+        "state_of_vehicle": "new",
+        "fuel_type": "Petrol",
+        "brochure_path": null,
+        "service_cost": 0,
+        "variant_specs": {
+            "cc": "796",
+            "power": "47.3bhp@6000rpm",
+            "cargo_volume": "177-litres",
+            "length": "3445mm",
+            "height": "1475mm",
+            "width": "1490mm",
+            "wheel_base": "2360mm",
+            "ground_clearance": "160mm",
+            "abs": "Standard",
+            "airbags": "Standard",
+            "touchscreen": "Not Available",
+            "rear_camera": "Not Available",
+            "anti_theft_alarm": "Not Available",
+            "fog_lights_front": "Not Available",
+            "alloy_wheels": "Not Available",
+            "rear_acvents": "Not Available"
+        }
+    }
 ]
